@@ -1,0 +1,2 @@
+# BlurEffect
+MacOS Blur effect
